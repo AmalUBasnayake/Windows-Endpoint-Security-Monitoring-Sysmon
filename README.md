@@ -39,4 +39,4 @@ Leveraged **Windows Event Viewer** to analyze **Event ID 1 (Process Creation)**.
 
 | Installation Success | Operational Log Overview | Detailed Event Analysis |
 | :--- | :--- | :--- |
-| ![Sysmon Install](SM-1.png) | ![Event Logs](SM-2.png) | ![Log Details](image_9d09bb.png) |
+| ![Sysmon Install](SM-1.png) | ![Event Logs](SM-2.png) | ![Log Details](ME-4.png) |
